@@ -3,7 +3,7 @@ module.exports.config = {
 	version: "1.0.0", 
 	hasPermssion: 0,
 	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
-	description: "Rename your group",
+	description: "AKATSUKI",
 	commandCategory: "Box", 
 	usages: "groupname [name]", 
 	cooldowns: 0,
